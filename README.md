@@ -1,2 +1,2 @@
 # navbar
-(ALERT): It is not responsive Yet
+Responsive navbar
